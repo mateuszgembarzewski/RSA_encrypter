@@ -1,0 +1,2 @@
+# RSA_encrypter
+Paul Revere's friend in a tower at M.I.T. says he'll send the message one if (the British are coming) by land and two if by sea. Since they know that RSA will be invented in the Boston area, they decide that the message should be encrypted using RSA. Paul Reverse receives the ciphertext 273095689186. Given the public key:  n = 712446816787 e = 6551, the program prints out what was the plaintext was. Assuming a text coding scheme in which 'a' = 1, 'b'=2, etc.
